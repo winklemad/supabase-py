@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.32.0](https://github.com/supabase/supabase-py/compare/v2.31.0...v2.32.0) (2026-07-09)
+
+
+### Features
+
+* support new realtime features ([#1524](https://github.com/supabase/supabase-py/issues/1524)) ([80688d1](https://github.com/supabase/supabase-py/commit/80688d1278634b7190fc9e7f57b3e885ff3f027c))
+
+
+### Bug Fixes
+
+* **client_options:** honor False for boolean options in replace() ([#1516](https://github.com/supabase/supabase-py/issues/1516)) ([10fb8f9](https://github.com/supabase/supabase-py/commit/10fb8f9029d4659f1ea874e7154b3ae19a4a1fa1))
+* **postgrest:** coerce non-string values in array filters ([#1530](https://github.com/supabase/supabase-py/issues/1530)) ([3433b0d](https://github.com/supabase/supabase-py/commit/3433b0db4993445a459c6ed7e497e3bdcc194258))
+
 ## [2.31.0](https://github.com/supabase/supabase-py/compare/v2.30.1...v2.31.0) (2026-06-04)
 
 
